@@ -13,7 +13,7 @@ object Prime_Number extends App{
     }
 
       
-    println(prime(8))
+    println(prime(5))
     println(prime(13))
 
 }
